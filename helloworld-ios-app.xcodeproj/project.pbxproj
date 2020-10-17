@@ -428,6 +428,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		F2E35EBC190A8BB800F08BC6 /* Build configuration list for PBXNativeTarget "helloworld-ios-app" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F2E35EBD190A8BB4552800F08BC6 /* Debug */,
+				F2E35EBE190A8BB800F0555558BC6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
 	};
 	rootObject = F2E35E88190A8BB800F08BC6 /* Project object */;
